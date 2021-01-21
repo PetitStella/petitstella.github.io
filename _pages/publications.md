@@ -18,7 +18,7 @@ author_profile: true
 -->
 
 # 学術論文
-1. **<u>Akira Furui</u>**, Ryota Onishi, Akihito Takeuchi, Tomoyuki Akiyama, and Toshio Tsuji, "Non-Gaussianity Detection of EEG Signals Based on a Multivariate Scale Mixture Model for Diagnosis of Epileptic Seizures", IEEE Transactions on Biomedical Engineering, vol. 68, no. 2, 2021 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9130830) [[arxiv]](https://arxiv.org/pdf/2007.00898.pdf)
+1. **<u>Akira Furui</u>**, Ryota Onishi, Akihito Takeuchi, Tomoyuki Akiyama, and Toshio Tsuji, "Non-Gaussianity Detection of EEG Signals Based on a Multivariate Scale Mixture Model for Diagnosis of Epileptic Seizures", IEEE Transactions on Biomedical Engineering, vol. 68, no. 2, 2021. (SCI, IF = 4.491) [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9130830) [[arxiv]](https://arxiv.org/pdf/2007.00898.pdf)
 2. 久米 伸治, 松重 俊憲, 濱 聖司, 坂本 繁幸, 岡崎 貴仁, 吉岡 成哲, 川野 伶緒, 川野 晃輔, **<u>古居 彬</u>**, 辻 敏夫, "Jellyfish plaqueの動的解析 ―拍動性血流との関係―", Neurosonology:神経超音波医学, vol. 33, no. 3, pp. 74–79, 2020. [[J-STAGE]](https://www.jstage.jst.go.jp/article/neurosonology/33/3/33_74/_article/-char/ja)
 3. Zu Soh, Motoki Matsuno, Masayuki Yoshida, **<u>Akira Furui</u>**, and Toshio Tsuji, "Measurement of Emotional States of Zebrafish through Integrated Analysis of Motion and Respiration Using Bioelectric Signals", Scientific Reports, 2021. (accepted, SCI, IF = 3.998) [[nature.com]](https://www.nature.com/articles/s41598-020-80578-6)
 4. Satoshi Miyamoto, Zu Soh, Shigeyuki Okahara, **<u>Akira Furui</u>**, Taiichi Takasaki, Keijiro Katayama, Shinya Takahashi, and Toshio Tsuji, "Neural network-based modeling of the number of microbubbles generated with four circulation factors in cardiopulmonary bypass", Scientific Reports, vol. 11, 549, 2021. (SCI, IF = 3.998) [[nature.com]](https://www.nature.com/articles/s41598-020-80810-3)
@@ -68,13 +68,13 @@ author_profile: true
 16. **<u>古居 彬</u>**, 江藤 慎太郎, 早志 英朗, 木原 高栄, 小西 隆寛, 吉田 友祐, 栗田 雄一, 辻 敏夫, “信号強度依存ノイズを利用したリアルタイム人工筋電位信号生成法の提案と無線通信への応用”, 第25回計測自動制御学会中国支部学術講演会論文集，2D-6 pp.148–149，2016年11月.
 17. **<u>古居 彬</u>**, 江藤 慎太郎, 渡橋 史典, 早志 英朗, 栗田 雄一, 辻 敏夫, “信号強度依存ノイズに基づく人工筋電位信号生成モデルの提案と動作識別への応用”, 第16回計測自動制御学会システムインテグレーション部門講演会 （SI2015）, SY0011/15, 2015-12-14, pp.80–85, 2015年12月.
 
+# 招待講演
+1. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性のモニタリング：脳活動との相関解析", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2020年度三拠点合同成果報告会, オンライン, 2020年12月9日.
+2. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性モニタリング：交感神経活動の非侵襲推定を目指して", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2019年度三拠点合同成果報告会, リーガロイヤルホテル広島, 2019年12月5日.
+3. **<u>古居 彬</u>**，辻 敏夫，“表面筋電位の分散分布モデルと生体ゆらぎ評価への応用”，第36回日本生理心理学会大会 公募シンポジウム, 2018年5月.
+4. **<u>Akira Furui</u>** and Toshio Tsuji, “EMG Interface Technology and Robotic Arm Prostheses”, 7th Hiroshima Conference on Education and Science in Dentistry, Koujin Conference Hall on Kasumi Campus, Hiroshima University, Hiroshima, Japan, March 29–30, 2018.
+
 # 特許
 1. 日本国特許出願 特願2020-027888, 交感神経活動推定装置・交感神経活動推定方法及びプログラム, 辻 敏夫, **<u>古居 彬</u>**, 曽 智, 坂川 俊樹, 笹岡 貴史, 山脇 成人, 吉栖 正生, 佐伯 昇, 中村 隆治, 岡田 芳幸, 2020年2月21日出願.
 2. 日本国特許出願 2018-231225, 生体信号解析装置及び生体信号解析方法, 辻 敏夫, 曽 智, **<u>古居 彬</u>**, 大西 亮太, 秋山 倫之, 竹内 章人, 2018年12月10日出願.
 3. 日本特許出願 2015-241474, 特許公開 2017-104333, 筋電信号処理方法, 装置およびプログラム, 辻 敏夫, 栗田 雄一, 早志 英朗, **<u>古居 彬</u>**, 2015年12月10日出願, 2017年6月15日公開.
-
-# 招待講演
-1. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性のモニタリング：脳活動との相関解析", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2020年度三拠点合同成果報告会, オンライン, 2020年12月9日.
-2. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性モニタリング：交感神経活動の非侵襲推定を目指して", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2019年度三拠点合同成果報告会, リーガロイヤルホテル広島, 2019年12月5日.
-3. **<u>古居 彬</u>**，辻 敏夫，“表面筋電位の分散分布モデルと生体ゆらぎ評価への応用”，第36回日本生理心理学会大会 公募シンポジウム, 2018年5月（招待講演）.
-4. **<u>Akira Furui</u>** and Toshio Tsuji, “EMG Interface Technology and Robotic Arm Prostheses”, 7th Hiroshima Conference on Education and Science in Dentistry, Koujin Conference Hall on Kasumi Campus, Hiroshima University, Hiroshima, Japan, March 29–30, 2018（招待講演）.
