@@ -3,6 +3,7 @@ layout: archive
 title: "Awards"
 permalink: /awards/
 author_profile: true
+classes: wide
 feature_row:
     - title: "受賞歴"
       excerpt: "
