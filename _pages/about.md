@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+[English]({{ "/en/" | relative_url }}){: .btn .btn--primary}
+{: .text-right}
+
 概要
 ======
 
