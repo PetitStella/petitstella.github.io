@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
+
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -17,8 +18,7 @@ author_profile: false
 {% endfor %}
 -->
 
-[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
-{: .text-right}
+# 発表文献 [English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
 
 学術論文
 ======
