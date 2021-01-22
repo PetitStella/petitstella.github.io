@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 [日本語]({{ "/" | relative_url }}){: .btn .btn--primary}
-{: .text-right}
-
+{: .text-right}<br>
 Resume
 ======
 

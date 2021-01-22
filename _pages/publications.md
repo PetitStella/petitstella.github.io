@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: false
 ---
 
-
-[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
-{: .text-right}
-
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -20,7 +16,8 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 -->
-
+[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
+{: .text-right}<br>
 学術論文
 ======
 1. **<u>Akira Furui</u>**, Ryota Onishi, Akihito Takeuchi, Tomoyuki Akiyama, and Toshio Tsuji, "Non-Gaussianity Detection of EEG Signals Based on a Multivariate Scale Mixture Model for Diagnosis of Epileptic Seizures", IEEE Transactions on Biomedical Engineering, vol. 68, no. 2, 2021. (SCI, IF = 4.491) [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9130830) [[arxiv]](https://arxiv.org/pdf/2007.00898.pdf)
@@ -61,7 +58,7 @@ author_profile: false
 ======
 1. 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 折野 晃紀, 濵井 万穂, 藤田 佳純, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "Time Base Generatorモデルに基づくTrail Making Test中のペン先軌道解析", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 2465–2470, 2020年12月．
 2. 城明 舜磨, **<u>古居 彬</u>**, 大西 亮太, 松本 龍彦, 角田 知己, 辻 敏夫, "生分解圧電素子を用いた5指タップ動作識別法の提案", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 3020–3024, 2020年12月.
-3. 土居 裕和, 飯島直也, 古居 彬, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.
+3. 土居 裕和, 飯島直也, **<u>古居 彬</u>**, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.
 4. 伊賀上 卓也, **<u>古居 彬</u>**, 大西 亮太, 島田 恭平, 辻 敏夫, "筋電位信号の尺度混合確率モデルに基づく上肢動作識別法の提案", 2020年電子通信情報学会総合大会 基礎・境界/NOLTA講演論文集, p. 190, 2020年3月.
 5. 坂川 俊樹, **<u>古居 彬</u>**, 平野 陽豊, 秋吉 駿, 笹岡 貴史, 曽 智, 岡田 芳幸, 吉野 敦雄, 中村 隆治, 佐伯 昇, 吉栖 正生, 河本 昌志, 山脇 成人, 辻 敏夫, "末梢血管剛性を用いた筋交感神経活動の非侵襲的推定", 2020年電子通信情報学会総合大会 情報・システム講演論文集１, p. 59, 2020年3月.
 6. 土居 裕和, 飯島 直也, **<u>古居 彬</u>**, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.

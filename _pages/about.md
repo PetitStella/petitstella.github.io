@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 [English]({{ "/en/" | relative_url }}){: .btn .btn--primary}
-{: .text-right}
-
+{: .text-right}<br>
 概要
 ======
 
