@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+[English]({{ "/publications/" | relative_url }}){: .btn .btn--primary}
+
 {% include base_path %}
 
 

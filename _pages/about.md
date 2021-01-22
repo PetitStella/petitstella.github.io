@@ -6,11 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  actions:
-    - label: "English"
-btn_label: "Read More"
-btn_class: "btn--primary"
 ---
 
 概要
