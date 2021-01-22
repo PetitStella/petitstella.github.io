@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Akira Furui"
   avatar           : "photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Hiroshima, Japan"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Furui+Akira"
