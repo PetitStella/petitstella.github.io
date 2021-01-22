@@ -2,6 +2,7 @@
 layout: archive
 title: "Background"
 permalink: /background/
+author_profile: false
 ---
 
 学歴・職歴

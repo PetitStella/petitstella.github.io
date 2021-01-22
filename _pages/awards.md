@@ -2,6 +2,7 @@
 layout: archive
 title: "Awards"
 permalink: /awards/
+author_profile: false
 ---
 <!--
 [English]({{ "/awards/" | relative_url }}){: .btn .btn--primary}
