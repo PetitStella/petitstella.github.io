@@ -5,7 +5,7 @@ permalink: /publications-en/
 author_profile: false
 ---
 
-[Japanese]({{ "/publications/" | relative_url }}){: .btn .btn--primary}
+[日本語]({{ "/publications/" | relative_url }}){: .btn .btn--primary}
 {: .text-right}
 
 <!--
