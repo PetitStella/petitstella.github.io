@@ -20,6 +20,12 @@ main:
     
   # - title: "CV"
   #   url: /cv/
+
+  - title: "Contact"
+    url: /contact/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Links"
+    url: /links/
+
+  # - title: "Guide"
+  #   url: /markdown/
