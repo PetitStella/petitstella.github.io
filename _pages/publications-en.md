@@ -20,7 +20,8 @@ author_profile: false
 -->
 
 [日本語]({{ "/publications/" | relative_url }}){: .btn .btn--primary}
-{: .text-right}<br>
+{: .text-right}
+
 Journal Papers
 ======
 1. **<u>Akira Furui</u>**, Ryota Onishi, Akihito Takeuchi, Tomoyuki Akiyama, and Toshio Tsuji, "Non-Gaussianity Detection of EEG Signals Based on a Multivariate Scale Mixture Model for Diagnosis of Epileptic Seizures", IEEE Transactions on Biomedical Engineering, vol. 68, no. 2, 2021. (SCI, IF = 4.491) [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9130830) [[arxiv]](https://arxiv.org/pdf/2007.00898.pdf)
