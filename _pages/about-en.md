@@ -28,7 +28,7 @@ Biological signal analysis，Statistical signal processing, Probabilistic modeli
 
 ## Biography
 
-Akira Furui received the B.E.,M.E., and D.Eng. degrees from Hiroshima University, Hiroshima, Japan, in 2016, 2018, and 2019,respectively.He was a Research Fellow with the Japan Society for the Promotion of Science, from 2018 to2019. He is currently an Assistant Professor with the Graduate School of Advanced Science andEngineering, Hiroshima University. His current research interests include biological signal analysis, human–machine interface, and probabilistic modeling.
+Akira Furui received the B.E.,M.E., and D.Eng. degrees from Hiroshima University, Hiroshima, Japan, in 2016, 2018, and 2019, respectively. He was a Research Fellow with the Japan Society for the Promotion of Science, from 2018 to2019. He is currently an Assistant Professor with the Graduate School of Advanced Science and Engineering, Hiroshima University. His current research interests include biological signal analysis, human–machine interface, and probabilistic modeling.
 
 ## Member
 

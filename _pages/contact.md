@@ -21,6 +21,7 @@ feature_row:
     - title: "メールアドレス"
       excerpt: "
       akirafurui[at]hiroshima-u.ac.jp
+      <br>
       ([at]を@に変更)
       "
 ---
