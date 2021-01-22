@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: false
 ---
 
-<!--
+
 [English]({{ "/publications/" | relative_url }}){: .btn .btn--primary}
--->
+{: .text-right}
 
 <!--
 {% if author.googlescholar %}
