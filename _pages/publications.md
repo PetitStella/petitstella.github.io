@@ -1,8 +1,6 @@
 ---
 layout: archive
 title: "Publications"
-excerpt: "Publications
-<a href="/publications-en/" class="btn btn--primary">English</a>"
 permalink: /publications/
 author_profile: false
 ---
@@ -19,8 +17,8 @@ author_profile: false
 {% endfor %}
 -->
 
-<!-- [English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
-{: .text-right} -->
+[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
+{: .text-right}
 
 学術論文
 ======
