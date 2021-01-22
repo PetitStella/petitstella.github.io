@@ -13,7 +13,6 @@ redirect_from:
 
 ## Resume
 
-
 **Name**<br>
 Akira Furui
 

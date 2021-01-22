@@ -17,7 +17,8 @@ author_profile: false
 {% endfor %}
 -->
 
-[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary .btn--small}
+[English]({{ "/publications-en/" | relative_url }}){: .btn}
+{: .text-right}
 
 ## 学術論文
 
