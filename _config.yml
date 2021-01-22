@@ -83,7 +83,7 @@ author:
   name             : "Akira Furui"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Hiroshima, Japan"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Furui+Akira"
   googlescholar    : "https://scholar.google.com/citations?user=ajaLSiMAAAAJ&hl=ja"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1554-6607"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

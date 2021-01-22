@@ -18,7 +18,7 @@ redirect_from:
 博士（工学）
 
 **所属**<br>
-広島大学 大学院先進理工系科学研究科 生体システム論研究室 助教
+[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp/) 助教
 
 **専門分野**<br>
 生体信号処理，統計的信号処理，確率モデル，機械学習
