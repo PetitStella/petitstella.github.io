@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications　&emsp;[English]({{ "/publications/" | relative_url }}){: .btn .btn--primary}"
 permalink: /publications/
 author_profile: false
 ---
