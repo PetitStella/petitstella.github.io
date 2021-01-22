@@ -18,7 +18,7 @@ author_profile: false
 {% endfor %}
 -->
 
-# 発表文献 [English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
+# 発表文献 &emsp;&emsp;[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary　.btn--small}
 
 学術論文
 ======

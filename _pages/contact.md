@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contacts"
-permalink: /contacts/
+title: "Contact"
+permalink: /contact/
 author_profile: false
 ---
