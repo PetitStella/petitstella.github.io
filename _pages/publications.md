@@ -3,6 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  actions:
+    - label: "English"
+btn_label: "Read More"
+btn_class: "btn--primary"
 ---
 
 <!--
