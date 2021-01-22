@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "受賞歴・競争的資金獲得歴"
 permalink: /awards/
 author_profile: false
 ---
@@ -11,8 +11,8 @@ author_profile: false
 {% include base_path %}
 
 
-受賞歴
-======
+## 受賞歴
+
 1. Phoenix Outstanding Researcher Award, 広島大学, 2020年11月.
 2. SI2019 優秀講演賞，計測自動制御学会システムインテグレーション部門, 2019年12月.
 3. 平成30年度工学研究科学生表彰，広島大学，2019年3月15日.
@@ -29,8 +29,8 @@ author_profile: false
 
 
 
-競争的資金
-======
+## 競争的資金獲得歴
+
 **2020年4月〜2022年3月**<br>
 日本学術振興会 科学研究費助成事業 若手研究「尺度混合確率モデルに基づく筋疲労の潜在特徴評価法の提案と適応的筋電義手制御の実現」（R.2-R.4）研究代表者
 

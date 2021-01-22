@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Background"
+title: "経歴"
 permalink: /background/
 author_profile: false
 ---
 
-学歴・職歴
-======
+## 学歴・職歴
+
 **2014年3月**<br>
 鹿児島工業高等専門学校 情報工学科　卒業
 

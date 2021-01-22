@@ -19,11 +19,11 @@ author_profile: false
 {% endfor %}
 -->
 
-[日本語]({{ "/publications/" | relative_url }}){: .btn .btn--primary}
+[Japanese]({{ "/publications/" | relative_url }}){: .btn .btn--primary}
 {: .text-right}
 
-Journal Papers
-======
+## Journal Papers
+
 1. **<u>Akira Furui</u>**, Ryota Onishi, Akihito Takeuchi, Tomoyuki Akiyama, and Toshio Tsuji, "Non-Gaussianity Detection of EEG Signals Based on a Multivariate Scale Mixture Model for Diagnosis of Epileptic Seizures", IEEE Transactions on Biomedical Engineering, vol. 68, no. 2, 2021. (SCI, IF = 4.491) [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9130830) [[arxiv]](https://arxiv.org/pdf/2007.00898.pdf)
 2. 久米 伸治, 松重 俊憲, 濱 聖司, 坂本 繁幸, 岡崎 貴仁, 吉岡 成哲, 川野 伶緒, 川野 晃輔, **<u>古居 彬</u>**, 辻 敏夫, "Jellyfish plaqueの動的解析 ―拍動性血流との関係―", Neurosonology:神経超音波医学, vol. 33, no. 3, pp. 74–79, 2020. [[J-STAGE]](https://www.jstage.jst.go.jp/article/neurosonology/33/3/33_74/_article/-char/ja)
 3. Zu Soh, Motoki Matsuno, Masayuki Yoshida, **<u>Akira Furui</u>**, and Toshio Tsuji, "Measurement of Emotional States of Zebrafish through Integrated Analysis of Motion and Respiration Using Bioelectric Signals", Scientific Reports, 2021. (accepted, SCI, IF = 3.998) [[nature.com]](https://www.nature.com/articles/s41598-020-80578-6)
@@ -39,18 +39,18 @@ Journal Papers
 13. Hideaki Hayashi, **<u>Akira Furui</u>**, Yuichi Kurita, and Toshio Tsuji, "A Variance Distribution Model of Surface EMG Signals Based on Inverse Gamma Distribution", IEEE Transactions on Biomedical Engineering, vol. 64, no. 11, pp. 2672–2681, Nov 2017. (SCI, IF=3.577) [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/7833142)
 14. **<u>Akira Furui</u>**, Hideaki Hayashi, Go Nakamura, Takaaki Chin, and Toshio Tsuji, "An Artificial EMG Generation Model Based on Signal-dependent Noise and Related Application to Motion Classification", PLoS ONE, vol. 12, no. 6, e0180112, Jun 2017. (SCI, IF=2.806) [[plos.org]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180112)
 
-Review Articles
-======
+## Review Articles
+
 1. 辻 敏夫, **<u>古居 彬</u>**, "筋シナジー仮説に基づく5指駆動型筋電義手のバイオミメティック制御", 電子情報通信学会誌, vol. 102, no. 8, pp. 768–771, 2019. [[IEICE]](https://app.journal.ieice.org/trial/102_8/k102_8_768/index.html)
 2. Toshio Tsuji, Taro Shibanoki, Go Nakamura, **<u>Akira Furui</u>**, "Development of Myoelectric Robotic/Prosthetic Hands with Cybernetic Control at the Biological Systems Engineering Laboratory, Hiroshima University", Journal of Robotics and Mechatronics, vol. 31, no. 1, pp. 27–34, 2019. [[J-STAGE]](https://www.jstage.jst.go.jp/article/jrobomech/31/1/31_27/_article/-char/ja)
 3. 辻 敏夫, **<u>古居 彬</u>**, 中村 豪, "筋電インタフェース技術とロボット義手", 精密工学会誌, vol. 83, no. 11, pp. 1010–1013, 2017. [[J-STAGE]](https://www.jstage.jst.go.jp/article/jjspe/83/11/83_1010/_article/-char/ja)
 
-Book Chapters
-======
+## Book Chapters
+
 1. 曽 智, 松下 虎弥太, **<u>古居 彬</u>**, 辻 敏夫, "末梢血管粘弾性インデックスに基づく不快臭の感性モデリング", 感性工学とAI-VRへの展開, 長町三生監修, 海文堂 (印刷中)
 
-Peer-Reviewed International Conference Proceedings
-======
+## Peer-Reviewed International Conference Proceedings
+
 1. **<u>Akira Furui</u>** and Toshio Tsuji, "Does the variance of surface EMG signals during isometric contractions follow an inverse gamma distribution?", Proceedings of 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'20), pp. 3118-3121, EMBS Virtual Academy, July 20-24, 2020.
 2. **<u>Akira Furui</u>** and Toshio Tsuji, "Muscle Fatigue Analysis by Using a Scale Mixture-based Stochastic Model of Surface EMG Signals", Proceedings of 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'19), pp. 1948-1951, Berlin, Germany, July 23-27, 2019.
 3. **<u>Akira Furui</u>**, Hideaki Hayashi, and Toshio Tsuji, “An EMG Pattern Classification Method Based on a Mixture of Variance Distribution Models”, Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'18), pp. 5216–5219, Honolulu, HI, USA, July 17–21, 2018.
@@ -58,8 +58,8 @@ Peer-Reviewed International Conference Proceedings
 5. **<u>Akira Furui</u>**, Hideaki Hayashi, Takaei Kihara, Takahiro Konishi, Yusuke Yoshida, Yuichi Kurita, and Toshio Tsuji, “Virtual Restoration of Down-sampled EMG Signals Using a Stochastic Model”, Proceedings of the 11th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe2017), PP5-3, Kobe International Conference Center, Kobe, Aug 22–24, 2017.
 6. **<u>Akira Furui</u>**, Hideaki Hayashi, Yuichi Kurita, and Toshio Tsuji, “Variance Distribution Analysis of Surface EMG Signals Based on Marginal Maximum Likelihood Estimation”, Proceedings of 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'17), pp.2514–2517, Jeju Island, Korea, July 11–15, 2017.
 
-Non-Reviewed Domestic Conference Proceedings
-======
+## Non-Reviewed Domestic Conference Proceedings
+
 1. 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 折野 晃紀, 濵井 万穂, 藤田 佳純, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "Time Base Generatorモデルに基づくTrail Making Test中のペン先軌道解析", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 2465–2470, 2020年12月．
 2. 城明 舜磨, **<u>古居 彬</u>**, 大西 亮太, 松本 龍彦, 角田 知己, 辻 敏夫, "生分解圧電素子を用いた5指タップ動作識別法の提案", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 3020–3024, 2020年12月.
 3. 土居 裕和, 飯島直也, **<u>古居 彬</u>**, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.
@@ -78,15 +78,15 @@ Non-Reviewed Domestic Conference Proceedings
 16. **<u>古居 彬</u>**, 江藤 慎太郎, 早志 英朗, 木原 高栄, 小西 隆寛, 吉田 友祐, 栗田 雄一, 辻 敏夫, “信号強度依存ノイズを利用したリアルタイム人工筋電位信号生成法の提案と無線通信への応用”, 第25回計測自動制御学会中国支部学術講演会論文集，2D-6 pp.148–149，2016年11月.
 17. **<u>古居 彬</u>**, 江藤 慎太郎, 渡橋 史典, 早志 英朗, 栗田 雄一, 辻 敏夫, “信号強度依存ノイズに基づく人工筋電位信号生成モデルの提案と動作識別への応用”, 第16回計測自動制御学会システムインテグレーション部門講演会 （SI2015）, SY0011/15, 2015-12-14, pp.80–85, 2015年12月.
 
-Invited Talks
-======
+## Invited Talks
+
 1. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性のモニタリング：脳活動との相関解析", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2020年度三拠点合同成果報告会, オンライン, 2020年12月9日.
 2. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性モニタリング：交感神経活動の非侵襲推定を目指して", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2019年度三拠点合同成果報告会, リーガロイヤルホテル広島, 2019年12月5日.
 3. **<u>古居 彬</u>**，辻 敏夫，“表面筋電位の分散分布モデルと生体ゆらぎ評価への応用”，第36回日本生理心理学会大会 公募シンポジウム, 2018年5月.
 4. **<u>Akira Furui</u>** and Toshio Tsuji, “EMG Interface Technology and Robotic Arm Prostheses”, 7th Hiroshima Conference on Education and Science in Dentistry, Koujin Conference Hall on Kasumi Campus, Hiroshima University, Hiroshima, Japan, March 29–30, 2018.
 
-Patents
-======
+## Patents
+
 1. 日本国特許出願 特願2020-027888, 交感神経活動推定装置・交感神経活動推定方法及びプログラム, 辻 敏夫, **<u>古居 彬</u>**, 曽 智, 坂川 俊樹, 笹岡 貴史, 山脇 成人, 吉栖 正生, 佐伯 昇, 中村 隆治, 岡田 芳幸, 2020年2月21日出願.
 2. 日本国特許出願 2018-231225, 生体信号解析装置及び生体信号解析方法, 辻 敏夫, 曽 智, **<u>古居 彬</u>**, 大西 亮太, 秋山 倫之, 竹内 章人, 2018年12月10日出願.
 3. 日本特許出願 2015-241474, 特許公開 2017-104333, 筋電信号処理方法, 装置およびプログラム, 辻 敏夫, 栗田 雄一, 早志 英朗, **<u>古居 彬</u>**, 2015年12月10日出願, 2017年6月15日公開.
