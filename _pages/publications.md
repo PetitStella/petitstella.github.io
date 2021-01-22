@@ -1,6 +1,8 @@
 ---
 layout: archive
-title: "Publications　<a href="/publications-en/" class="btn btn--primary">English</a>"
+title: "Publications"
+excerpt: "Publications
+<a href="/publications-en/" class="btn btn--primary">English</a>"
 permalink: /publications/
 author_profile: false
 ---
