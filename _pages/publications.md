@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: false
 ---
 
-
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -18,10 +17,9 @@ author_profile: false
 {% endfor %}
 -->
 
-<!-- [English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
-{: .text-right} -->
+[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary .btn--small}
 
-## 学術論文 &emsp;&emsp;&emsp;&emsp;[English]({{ "/publications-en/" | relative_url }}){: .btn .btn--primary}
+## 学術論文
 
 1. **<u>Akira Furui</u>**, Ryota Onishi, Akihito Takeuchi, Tomoyuki Akiyama, and Toshio Tsuji, "Non-Gaussianity Detection of EEG Signals Based on a Multivariate Scale Mixture Model for Diagnosis of Epileptic Seizures", IEEE Transactions on Biomedical Engineering, vol. 68, no. 2, 2021. (SCI, IF = 4.491) [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9130830) [[arxiv]](https://arxiv.org/pdf/2007.00898.pdf)
 2. 久米 伸治, 松重 俊憲, 濱 聖司, 坂本 繁幸, 岡崎 貴仁, 吉岡 成哲, 川野 伶緒, 川野 晃輔, **<u>古居 彬</u>**, 辻 敏夫, "Jellyfish plaqueの動的解析 ―拍動性血流との関係―", Neurosonology:神経超音波医学, vol. 33, no. 3, pp. 74–79, 2020. [[J-STAGE]](https://www.jstage.jst.go.jp/article/neurosonology/33/3/33_74/_article/-char/ja)
