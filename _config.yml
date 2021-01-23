@@ -84,11 +84,11 @@ author:
   avatar           : "photo.jpg"
   bio              : "Ph.D in Engineering"
   location         : "Hiroshima, Japan"
-  employer         :
+  employer         : 
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Furui+Akira"
   googlescholar    : "https://scholar.google.com/citations?user=ajaLSiMAAAAJ&hl=ja"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Akira_Furui"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
