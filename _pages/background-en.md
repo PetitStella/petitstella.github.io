@@ -19,7 +19,7 @@ M. Eng.<br>
 Graduate School of Engineering, Hiroshima University, Japan
 
 **April 2018 &ndash; Sept 2019**<br>
-Ph.D
+Ph.D<br>
 Graduate School of Engineering, Hiroshima University, Japan
 
 
