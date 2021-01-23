@@ -5,6 +5,9 @@ permalink: /background/
 author_profile: false
 ---
 
+[English]({{ "/background-en/" | relative_url }}){: .btn}
+{: .text-right}
+
 ## 学歴・職歴
 
 **2014年3月**<br>

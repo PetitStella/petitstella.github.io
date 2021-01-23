@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about-en/
-  - /about=en.html
+  - /about-en.html
 ---
 
 [Japanese]({{ "/" | relative_url }}){: .btn .btn--primary}
