@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "経歴"
+title: "Background"
 permalink: /background-en/
 author_profile: false
 ---
@@ -30,5 +30,5 @@ Research Fellowships for Young Scientists (DC1)<br>
 Japan Society for the Promotion of Science
 
 **Oct 2019 &ndash; Present**<br>
-Assistant Professor
+Assistant Professor<br>
 Graduate School of Advanced Science and Engineering, Hiroshima University, Japan
