@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Akira Furui"
+title                    : "古居 彬（Akira Furui）"
 title_separator          : "-"
 name                     : &name "Akira Furui"
 description              : &description "personal description"
