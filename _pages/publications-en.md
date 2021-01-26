@@ -1,4 +1,5 @@
 ---
+locale: "en-US"
 layout: archive
 title: "Publications"
 permalink: /publications-en/

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,11 +11,13 @@ redirect_from:
 [English]({{ "/en/" | relative_url }}){: .btn .btn--primary}
 {: .text-right}
 
+
+# 古居 彬（Akira Furui）
+
 ## 概要
 
-
-**名前**<br>
-古居 彬（Akira Furui）
+<!-- **名前**<br>
+古居 彬（Akira Furui） -->
 
 **学位**<br>
 博士（工学）
