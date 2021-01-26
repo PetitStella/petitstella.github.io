@@ -1,5 +1,5 @@
 ---
-locale: "en-US"
+page.locale: "en-US"
 layout: archive
 title: "Background"
 permalink: /background-en/

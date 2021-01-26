@@ -1,8 +1,8 @@
 ---
-locale: "en-US"
+page.locale: "en-US"
 permalink: /en/
 title: "About me"
-#excerpt: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about-en/
@@ -12,12 +12,10 @@ redirect_from:
 [Japanese]({{ "/" | relative_url }}){: .btn .btn--primary}
 {: .text-right}
 
-# Akira Furui
-
 ## Resume
 
-<!-- **Name**<br>
-Akira Furui -->
+**Name**<br>
+Akira Furui
 
 **Degree**<br>
 Ph.D. in Engineering
