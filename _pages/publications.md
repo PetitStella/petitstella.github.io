@@ -51,37 +51,36 @@ author_profile: false
 
 1. **<u>Akira Furui</u>** and Toshio Tsuji, "Does the variance of surface EMG signals during isometric contractions follow an inverse gamma distribution?", Proceedings of 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'20), pp. 3118-3121, EMBS Virtual Academy, July 20-24, 2020.
 2. **<u>Akira Furui</u>** and Toshio Tsuji, "Muscle Fatigue Analysis by Using a Scale Mixture-based Stochastic Model of Surface EMG Signals", Proceedings of 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'19), pp. 1948-1951, Berlin, Germany, July 23-27, 2019.
-3. **<u>Akira Furui</u>**, Hideaki Hayashi, and Toshio Tsuji, “An EMG Pattern Classification Method Based on a Mixture of Variance Distribution Models”, Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'18), pp. 5216–5219, Honolulu, HI, USA, July 17–21, 2018.
-4. Masanobu Kittaka, **<u>Akira Furui</u>**, and Toshio Tsuji, “HUVETS: Hiroshima University Virtual EMG Training System for myoelectric hand control with evaluation of motor skills and fatigue in users”, Global Student Innovation Challenge for Assistive Technology (gSIC-AT), The 11th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe2017), Kobe International Conference Center, Kobe, Aug 22–24, 2017.
-5. **<u>Akira Furui</u>**, Hideaki Hayashi, Takaei Kihara, Takahiro Konishi, Yusuke Yoshida, Yuichi Kurita, and Toshio Tsuji, “Virtual Restoration of Down-sampled EMG Signals Using a Stochastic Model”, Proceedings of the 11th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe2017), PP5-3, Kobe International Conference Center, Kobe, Aug 22–24, 2017.
-6. **<u>Akira Furui</u>**, Hideaki Hayashi, Yuichi Kurita, and Toshio Tsuji, “Variance Distribution Analysis of Surface EMG Signals Based on Marginal Maximum Likelihood Estimation”, Proceedings of 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'17), pp.2514–2517, Jeju Island, Korea, July 11–15, 2017.
+3. **<u>Akira Furui</u>**, Hideaki Hayashi, and Toshio Tsuji, "An EMG Pattern Classification Method Based on a Mixture of Variance Distribution Models", Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'18), pp. 5216–5219, Honolulu, HI, USA, July 17–21, 2018.
+4. Masanobu Kittaka, **<u>Akira Furui</u>**, and Toshio Tsuji, "HUVETS: Hiroshima University Virtual EMG Training System for myoelectric hand control with evaluation of motor skills and fatigue in users", Global Student Innovation Challenge for Assistive Technology (gSIC-AT), The 11th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe2017), Kobe International Conference Center, Kobe, Aug 22–24, 2017.
+5. **<u>Akira Furui</u>**, Hideaki Hayashi, Takaei Kihara, Takahiro Konishi, Yusuke Yoshida, Yuichi Kurita, and Toshio Tsuji, "Virtual Restoration of Down-sampled EMG Signals Using a Stochastic Model", Proceedings of the 11th International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe2017), PP5-3, Kobe International Conference Center, Kobe, Aug 22–24, 2017.
+6. **<u>Akira Furui</u>**, Hideaki Hayashi, Yuichi Kurita, and Toshio Tsuji, "Variance Distribution Analysis of Surface EMG Signals Based on Marginal Maximum Likelihood Estimation", Proceedings of 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'17), pp.2514–2517, Jeju Island, Korea, July 11–15, 2017.
 
 ## 査読なし国内会議
 
 1. 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 折野 晃紀, 濵井 万穂, 藤田 佳純, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "Time Base Generatorモデルに基づくTrail Making Test中のペン先軌道解析", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 2465–2470, 2020年12月．
 2. 城明 舜磨, **<u>古居 彬</u>**, 大西 亮太, 松本 龍彦, 角田 知己, 辻 敏夫, "生分解圧電素子を用いた5指タップ動作識別法の提案", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 3020–3024, 2020年12月.
-3. 土居 裕和, 飯島直也, **<u>古居 彬</u>**, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.
 4. 伊賀上 卓也, **<u>古居 彬</u>**, 大西 亮太, 島田 恭平, 辻 敏夫, "筋電位信号の尺度混合確率モデルに基づく上肢動作識別法の提案", 2020年電子通信情報学会総合大会 基礎・境界/NOLTA講演論文集, p. 190, 2020年3月.
 5. 坂川 俊樹, **<u>古居 彬</u>**, 平野 陽豊, 秋吉 駿, 笹岡 貴史, 曽 智, 岡田 芳幸, 吉野 敦雄, 中村 隆治, 佐伯 昇, 吉栖 正生, 河本 昌志, 山脇 成人, 辻 敏夫, "末梢血管剛性を用いた筋交感神経活動の非侵襲的推定", 2020年電子通信情報学会総合大会 情報・システム講演論文集１, p. 59, 2020年3月.
 6. 土居 裕和, 飯島 直也, **<u>古居 彬</u>**, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.
-7. 川野 晃輔, 飯島 直也, 南木 望, **<u>古居 彬</u>**, 曽 智, 森 裕紀, 早志 英朗, 久米 伸治, 辻 敏夫, ”Deep Learningを用いたJellyfish Sign自動識別システムの開発”, 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 2141–2146, 2019年12月．
-8. 畑元 雅璃, 大西 亮太, **<u>古居 彬</u>**, 島田 恭平, 曽 智, 小川 景子, 辻 敏夫, ”尺度混合モデルに基づく睡眠脳波の解析”, 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 0755–0759, 2019年12月．
-9. 飯島 直也, **<u>古居 彬</u>**, 曽 智, 早志 英朗, 森 裕紀, 島谷 康司, 辻 敏夫, ”2次元姿勢推定深層学習モデルを用いた新生児General Movementsの評価”, 発達神経科学学会第8回学術集会, P. 28, 2019年11月23–24日.
-10. 秋吉 駿, **<u>古居 彬</u>**, 平野 陽豊, 隅山 慎, 棟安 俊文, 三戸 景永, 曽 智, 笹岡 貴史, 吉野 敦雄, 神谷 諭史, 中村 隆治, 佐伯 昇, 吉栖 正生, 河本 昌志, 山脇 成人, 辻 敏夫, “末梢交感神経活動に基づく人間の疼痛評価”, 第58回日本生体医工学会大会, PO-B-138, 2019年6月8日.
-11. 大西 亮太, **<u>古居 彬</u>**, 島田 恭平, 中垣 光裕, 曽 智, 竹内 章人, 秋山 倫之, 辻 敏夫, “尺度混合モデルに基づく脳波解析手法の提案とてんかん発作検出への応用”，第19回計測自動制御学会システムインテグレーション部門講演会 （SI2018）, pp.86–91, 2018年12月．
-12. 飯島 直也, 南木 望, 木下 直樹, **<u>古居 彬</u>**, 曽 智, 森 裕紀, 早志 英朗, 島谷 康司, 辻 敏夫, “CHLAC特徴量を用いた新生児General Movements動画像識別の精度検証”，第19回計測自動制御学会システムインテグレーション部門講演会 （SI2018）, pp.103–107, 2018年12月．
-13. **<u>古居 彬</u>**, 早志 英朗, 曽 智, 栗田 雄一, 辻 敏夫, “尺度混合モデルに基づく筋電位信号の分散分布特性の解析”, 第18回計測自動制御学会システムインテグレーション部門講演会 （SI2017）, pp.1539–1543, 2017年12月.
-14. 南木 望, 曽 智, 船曳 康子, 小川 詩乃, 志波 泰子, 船曳 和雄, 木下 直樹, 川嶋 克明, **<u>古居 彬</u>**, 森 裕紀, 島谷 康司, 辻 敏夫, “視線追従課題を利用した立位動揺解析評価システムの開発”, 第50回日本人間工学会中国・四国支部大会講演論文集, pp.71–72, 2017年12月.
-15. 橘高 允伸, **<u>古居 彬</u>**, 江藤 慎太郎, 早志 英朗, 中村 豪, 栗田 雄一, 陳 隆明, 辻 敏夫, “筋電義手トレーニングへの応用を目的とした没入型VR環境下における人間のリーチング運動の解析”, 第25回計測自動制御学会中国支部学術講演会論文集，2C-3 pp.128–129，2016年11月.
-16. **<u>古居 彬</u>**, 江藤 慎太郎, 早志 英朗, 木原 高栄, 小西 隆寛, 吉田 友祐, 栗田 雄一, 辻 敏夫, “信号強度依存ノイズを利用したリアルタイム人工筋電位信号生成法の提案と無線通信への応用”, 第25回計測自動制御学会中国支部学術講演会論文集，2D-6 pp.148–149，2016年11月.
-17. **<u>古居 彬</u>**, 江藤 慎太郎, 渡橋 史典, 早志 英朗, 栗田 雄一, 辻 敏夫, “信号強度依存ノイズに基づく人工筋電位信号生成モデルの提案と動作識別への応用”, 第16回計測自動制御学会システムインテグレーション部門講演会 （SI2015）, SY0011/15, 2015-12-14, pp.80–85, 2015年12月.
+7. 川野 晃輔, 飯島 直也, 南木 望, **<u>古居 彬</u>**, 曽 智, 森 裕紀, 早志 英朗, 久米 伸治, 辻 敏夫, "Deep Learningを用いたJellyfish Sign自動識別システムの開発", 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 2141–2146, 2019年12月．
+8. 畑元 雅璃, 大西 亮太, **<u>古居 彬</u>**, 島田 恭平, 曽 智, 小川 景子, 辻 敏夫, "尺度混合モデルに基づく睡眠脳波の解析", 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 0755–0759, 2019年12月．
+9. 飯島 直也, **<u>古居 彬</u>**, 曽 智, 早志 英朗, 森 裕紀, 島谷 康司, 辻 敏夫, "2次元姿勢推定深層学習モデルを用いた新生児General Movementsの評価", 日本発達神経科学学会第8回学術集会, P. 28, 2019年11月23–24日.
+10. 秋吉 駿, **<u>古居 彬</u>**, 平野 陽豊, 隅山 慎, 棟安 俊文, 三戸 景永, 曽 智, 笹岡 貴史, 吉野 敦雄, 神谷 諭史, 中村 隆治, 佐伯 昇, 吉栖 正生, 河本 昌志, 山脇 成人, 辻 敏夫, "末梢交感神経活動に基づく人間の疼痛評価", 第58回日本生体医工学会大会, PO-B-138, 2019年6月8日.
+11. 大西 亮太, **<u>古居 彬</u>**, 島田 恭平, 中垣 光裕, 曽 智, 竹内 章人, 秋山 倫之, 辻 敏夫, "尺度混合モデルに基づく脳波解析手法の提案とてんかん発作検出への応用"，第19回計測自動制御学会システムインテグレーション部門講演会 （SI2018）, pp.86–91, 2018年12月．
+12. 飯島 直也, 南木 望, 木下 直樹, **<u>古居 彬</u>**, 曽 智, 森 裕紀, 早志 英朗, 島谷 康司, 辻 敏夫, "CHLAC特徴量を用いた新生児General Movements動画像識別の精度検証"，第19回計測自動制御学会システムインテグレーション部門講演会 （SI2018）, pp.103–107, 2018年12月．
+13. **<u>古居 彬</u>**, 早志 英朗, 曽 智, 栗田 雄一, 辻 敏夫, "尺度混合モデルに基づく筋電位信号の分散分布特性の解析", 第18回計測自動制御学会システムインテグレーション部門講演会 （SI2017）, pp.1539–1543, 2017年12月.
+14. 南木 望, 曽 智, 船曳 康子, 小川 詩乃, 志波 泰子, 船曳 和雄, 木下 直樹, 川嶋 克明, **<u>古居 彬</u>**, 森 裕紀, 島谷 康司, 辻 敏夫, "視線追従課題を利用した立位動揺解析評価システムの開発", 第50回日本人間工学会中国・四国支部大会講演論文集, pp.71–72, 2017年12月.
+15. 橘高 允伸, **<u>古居 彬</u>**, 江藤 慎太郎, 早志 英朗, 中村 豪, 栗田 雄一, 陳 隆明, 辻 敏夫, "筋電義手トレーニングへの応用を目的とした没入型VR環境下における人間のリーチング運動の解析", 第25回計測自動制御学会中国支部学術講演会論文集，2C-3 pp.128–129，2016年11月.
+16. **<u>古居 彬</u>**, 江藤 慎太郎, 早志 英朗, 木原 高栄, 小西 隆寛, 吉田 友祐, 栗田 雄一, 辻 敏夫, "信号強度依存ノイズを利用したリアルタイム人工筋電位信号生成法の提案と無線通信への応用", 第25回計測自動制御学会中国支部学術講演会論文集，2D-6 pp.148–149，2016年11月.
+17. **<u>古居 彬</u>**, 江藤 慎太郎, 渡橋 史典, 早志 英朗, 栗田 雄一, 辻 敏夫, "信号強度依存ノイズに基づく人工筋電位信号生成モデルの提案と動作識別への応用", 第16回計測自動制御学会システムインテグレーション部門講演会 （SI2015）, SY0011/15, 2015-12-14, pp.80–85, 2015年12月.
 
 ## 招待講演
 
 1. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性のモニタリング：脳活動との相関解析", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2020年度三拠点合同成果報告会, オンライン, 2020年12月9日.
 2. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性モニタリング：交感神経活動の非侵襲推定を目指して", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2019年度三拠点合同成果報告会, リーガロイヤルホテル広島, 2019年12月5日.
-3. **<u>古居 彬</u>**，辻 敏夫，“表面筋電位の分散分布モデルと生体ゆらぎ評価への応用”，第36回日本生理心理学会大会 公募シンポジウム, 2018年5月.
-4. **<u>Akira Furui</u>** and Toshio Tsuji, “EMG Interface Technology and Robotic Arm Prostheses”, 7th Hiroshima Conference on Education and Science in Dentistry, Koujin Conference Hall on Kasumi Campus, Hiroshima University, Hiroshima, Japan, March 29–30, 2018.
+3. **<u>古居 彬</u>**，辻 敏夫，"表面筋電位の分散分布モデルと生体ゆらぎ評価への応用"，第36回日本生理心理学会大会 公募シンポジウム, 2018年5月.
+4. **<u>Akira Furui</u>** and Toshio Tsuji, "EMG Interface Technology and Robotic Arm Prostheses", 7th Hiroshima Conference on Education and Science in Dentistry, Koujin Conference Hall on Kasumi Campus, Hiroshima University, Hiroshima, Japan, March 29–30, 2018.
 
 ## 特許
 
