@@ -76,13 +76,13 @@ author_profile: false
 13. Nozomi Nanki, Zu Soh, Yasuko Funabiki, Shino Ogawa, Taiko Shiwa, Kazuo Funabiki, Naoki Kinoshita, Katsuaki Kawashima, **<u>Akira Furui</u>**, Hiroaki Mori, Koji Shimatani, Toshio Tsuji, "Development of Evaluation System for Standing Stability Analysis Using Gaze Tracking Task", Proceedings of the 50th  Annual Meeting of  Japan Ergonomics Society, Chugoku and Shikoku Branch, pp.71–72, Dec 9, 2017.
 14. Masanobu Kittaka, **<u>Akira Furui</u>**, Shintaro Eto, Hideaki Hayashi, Go Nakamura, Yuichi Kurita, Takaaki Chin, and Toshio Tsuji, "Analysis of Human Reaching Movements in Immersive Virtual Environment for Training of Electromyographic Prosthetic Hands", Proceedings of the 25th Annual Conference of the SICE Chugoku Chapter, 2C-3, pp.128–129, Nov 26, 2016.
 15. **<u>Akira Furui</u>**, Eto Shintaro, Hideaki Hayashi, Takaei Kihara, Takahiro Konishi, Yusuke Yoshida, Yuichi Kurita, Toshio Tsuji, "A Real-time Generation Method of Artificial EMG Signal Involving Signal-dependent Noise and Related Application to Wireless Communication", Proceedings of the 25th Annual Conference of the SICE Chugoku Chapter, 2D-6, pp.148–149, Nov 26, 2016.
-16. **<u>古居 彬</u>**, 江藤 慎太郎, 渡橋 史典, 早志 英朗, 栗田 雄一, 辻 敏夫, "信号強度依存ノイズに基づく人工筋電位信号生成モデルの提案と動作識別への応用", 第16回計測自動制御学会システムインテグレーション部門講演会 （SI2015）, SY0011/15, 2015-12-14, pp.80–85, 2015年12月.
+16. **<u>Akira Furui</u>**, Shintaro Eto, Orihashi Fuminori, Hideaki Hayashi, Yuichi Kurita, Toshio Tsuji, "An Artificial EMG Generation Model Based on Signal-dependent Noise and Related Application to Motion Classification", The 16th SICE System Integration Division Annual Conference (SI2015),  SY0011/15, 2015-12-14, pp.80–85, Dec 14–16, 2015．
 
 ## Invited Talks
 
-1. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性のモニタリング：脳活動との相関解析", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2020年度三拠点合同成果報告会, オンライン, 2020年12月9日.
-2. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性モニタリング：交感神経活動の非侵襲推定を目指して", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2019年度三拠点合同成果報告会, リーガロイヤルホテル広島, 2019年12月5日.
-3. **<u>古居 彬</u>**，辻 敏夫，"表面筋電位の分散分布モデルと生体ゆらぎ評価への応用"，第36回日本生理心理学会大会 公募シンポジウム, 2018年5月.
+1. Toshio Tsuji, Zu Soh, and **<u>Akira Furui</u>**, "KANSEI monitoring by peripheral vascular stiffness: correlation analysis with brain activity", Center of KANSEI Innovation Nurturing Mental Wealth (KANSEI COI), Joint Report Meeting of the Three Centers, Dec 9, 2020.
+2. Toshio Tsuji, Zu Soh, and **<u>Akira Furui</u>**, "KANSEI monitoring by peripheral vascular stiffness: toward non-invasive estimation of sympathetic nerve activity", Center of KANSEI Innovation Nurturing Mental Wealth (KANSEI COI), Joint Report Meeting of the Three Centers, Dec 5, 2020.
+3. **<u>Akira Furui</u>** and Toshio Tsuji，"A variance distribution model of surface EMG signals and related application to Biological fluctuation estimation"，The 36th Annual Conference of Japanese Society for Physiological Psychology and Psychophysiology, Open Symposium, May 26–27, 2018.
 4. **<u>Akira Furui</u>** and Toshio Tsuji, "EMG Interface Technology and Robotic Arm Prostheses", 7th Hiroshima Conference on Education and Science in Dentistry, Koujin Conference Hall on Kasumi Campus, Hiroshima University, Hiroshima, Japan, March 29–30, 2018.
 
 ## Patents
