@@ -24,7 +24,7 @@ redirect_from:
 [広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp/) 助教
 
 **専門分野**<br>
-生体信号処理，統計的信号処理，確率モデル，機械学習
+生体信号解析，統計的信号処理，確率モデル，機械学習
 
 ## 略歴
 

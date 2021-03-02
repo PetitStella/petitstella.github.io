@@ -25,7 +25,7 @@ Assistant Professor,
 Graduate School of Advanced Science and Engineering, Hiroshima University
 
 **Major**<br>
-Biological signal analysis，Statistical signal processing, Probabilistic modeling，Machine learning
+Biological signal analysis，Statistical signal processing, Probabilistic modeling, Machine learning
 
 ## Biography
 
