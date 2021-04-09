@@ -89,6 +89,8 @@ author_profile: false
 
 ## Patents
 
-1. Toshio Tsuji, **<u>Akira Furui</u>**, Zu Soh, Toshiki Sakagawa, Takafumi Sasaoka, Shigeto Yamawaki, Masao Yoshizumi, Noboru Saeki, Ryuji Nakamura, and Yoshiyuki Okada, "交感神経活動推定装置・交感神経活動推定方法及びプログラム," Japanese Unexamined Patent, Application No. 2020-027888 (submitted on September 21, 2020).
-2. 日本国特許出願 2018-231225, 生体信号解析装置及び生体信号解析方法, 辻 敏夫, 曽 智, **<u>古居 彬</u>**, 大西 亮太, 秋山 倫之, 竹内 章人, 2018年12月10日出願.
-3. 日本特許出願 2015-241474, 特許公開 2017-104333, 筋電信号処理方法, 装置およびプログラム, 辻 敏夫, 栗田 雄一, 早志 英朗, **<u>古居 彬</u>**, 2015年12月10日出願, 2017年6月15日公開.
+1. Toshio Tsuji, **<u>Akira Furui</u>**, Shumma Jomyo, Tomoyuki Tsunoda, and Tatsuhiko Matsumoto, "操作装置、および、操作推定方法", Japanese Unexamined Patent, Application No. 2020-206397, (submitted on December 14, 2020).
+2. Toshio Tsuji, **<u>Akira Furui</u>**, Zu Soh, Toshifumi Muneyasu, Takafumi Sasaoka, and Shigeto Yamawaki, "血管剛性推定方法、血管剛性推定装置及びプログラム", Japanese Unexamined Patent, Application No. 2020-105880, (submitted on June 19, 2020).
+3. Toshio Tsuji, **<u>Akira Furui</u>**, Zu Soh, Toshiki Sakagawa, Takafumi Sasaoka, Shigeto Yamawaki, Masao Yoshizumi, Noboru Saeki, Ryuji Nakamura, and Yoshiyuki Okada, "交感神経活動推定装置・交感神経活動推定方法及びプログラム," Japanese Unexamined Patent, Application No. 2020-027888 (submitted on February 21, 2020).
+4. Toshio Tsuji, **<u>Akira Furui</u>**, Zu Soh, Ryota Onishi, and Tomoyuki Akiyama, "生体信号解析装置及び生体信号解析方法",  Japanese Unexamined Patent, Application No. 2018-231225 (submitted on December 10, 2018).
+5. Toshio Tsuji, Yuichi Kurita, Hideaki Hayashi, and Akira Furui, "筋電信号処理方法, 装置およびプログラム", Japanese Unexamined Patent, Application No. 2015-241474 (submitted on December 10, 2015).

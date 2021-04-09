@@ -33,5 +33,6 @@ Akira Furui received the B.E.,M.E., and D.Eng. degrees from Hiroshima University
 
 ## Member
 
-- IEEE Engineering in Medicine and Biology Society (EMBS)
+- Institute of Electrical and Electronics Engineers (IEEE)
+- IEEE Engineering in Medicine and Biology Society (IEEE EMBS)
 - The Society of Instrument and Control Engineers (SICE)

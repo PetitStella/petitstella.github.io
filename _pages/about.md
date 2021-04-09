@@ -37,5 +37,6 @@ redirect_from:
 
 ## 学会会員
 
-- IEEE Engineering in Medicine and Biology Society (EMBS)
+- Institute of Electrical and Electronics Engineers (IEEE)
+- IEEE Engineering in Medicine and Biology Society (IEEE EMBS)
 - 公益社団法人 計測自動制御学会 (SICE)
