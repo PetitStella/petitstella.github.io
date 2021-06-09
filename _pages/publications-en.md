@@ -53,7 +53,7 @@ author_profile: false
 
 ## Peer-Reviewed International Conference Proceedings
 
-1. **<u>Akira Furui</u>**, Kosuke Nakagaki, and Toshio Tsuji, "Biomimetic Control of Myoelectric Prosthetic Hand Based on a Lambda-type Muscle Model," 2021 IEEE International Conference on Robotics and Automation (ICRA2021), (accepted).
+1. **<u>Akira Furui</u>**, Kosuke Nakagaki, and Toshio Tsuji, "Biomimetic Control of Myoelectric Prosthetic Hand Based on a Lambda-type Muscle Model," 2021 IEEE International Conference on Robotics and Automation (ICRA2021), (accepted). [[arxiv]](https://arxiv.org/pdf/2105.14215.pdf)
 2. **<u>Akira Furui</u>** and Toshio Tsuji, "Does the variance of surface EMG signals during isometric contractions follow an inverse gamma distribution?", Proceedings of 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'20), pp. 3118-3121, EMBS Virtual Academy, July 20-24, 2020. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9176102)
 3. **<u>Akira Furui</u>** and Toshio Tsuji, "Muscle Fatigue Analysis by Using a Scale Mixture-based Stochastic Model of Surface EMG Signals", Proceedings of 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'19), pp. 1948-1951, Berlin, Germany, July 23-27, 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8856348)
 4. **<u>Akira Furui</u>**, Hideaki Hayashi, and Toshio Tsuji, "An EMG Pattern Classification Method Based on a Mixture of Variance Distribution Models", Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'18), pp. 5216–5219, Honolulu, HI, USA, July 17–21, 2018. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8513446)
