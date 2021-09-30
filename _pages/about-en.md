@@ -24,8 +24,7 @@ Ph.D. in Engineering
 Assistant Professor,
 Graduate School of Advanced Science and Engineering, Hiroshima University
 
-**Major**<br>
-Biological signal analysis，Statistical signal processing, Probabilistic modeling, Machine learning
+**Research interests**<br>Biological Signal Analysis, Statistical Machine Learning, Probabilistic Models, Human Machine Interface
 
 ## Biography
 
