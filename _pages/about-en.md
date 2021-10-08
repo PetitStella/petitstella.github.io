@@ -24,11 +24,11 @@ Ph.D. in Engineering
 Assistant Professor,
 Graduate School of Advanced Science and Engineering, Hiroshima University
 
-**Research interests**<br>Biological Signal Analysis, Statistical Machine Learning, Probabilistic Models, Human Machine Interface
+**Research interests**<br>Biological Signal Analysis, Statistical Machine Learning, Probabilistic Models, Human-Machine Interface
 
 ## Biography
 
-Akira Furui received the B.E.,M.E., and D.Eng. degrees from Hiroshima University, Hiroshima, Japan, in 2016, 2018, and 2019, respectively. He was a Research Fellow with the Japan Society for the Promotion of Science, from 2018 to2019. He is currently an Assistant Professor with the Graduate School of Advanced Science and Engineering, Hiroshima University. His current research interests include biological signal analysis, human–machine interface, and probabilistic modeling.
+Akira Furui received the B.E., M.E., and Ph.D. degrees in engineering from Hiroshima University, Hiroshima, Japan, in 2016, 2018, and 2019, respectively. He was a Research Fellow with the Japan Society for the Promotion of Science, from 2018 to 2019. He is currently an Assistant Professor with the Graduate School of Advanced Science and Engineering, Hiroshima University. His current research interests include biological signal analysis, statistical machine learning, probabilistic models, and human-machine interface.
 
 ## Member
 
