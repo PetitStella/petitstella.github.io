@@ -96,6 +96,7 @@ author_profile: false
 
 ## Invited Talks
 
+1. **<u>Akira Furui</u>**, Tomoyuki Akiyama, and Toshio Tsuji, "A non-Gaussian EEG model focusing on stochastic amplitude fluctuation for automatic epileptic seizure detection", The 51st Annual Meeting of the Japanese Society of Clinical Neuropsysiology, Symposium, SP25-4, Sendai International Center/WEB, Dec 16–18, 2021.
 1. Toshio Tsuji, Zu Soh, and **<u>Akira Furui</u>**, "KANSEI monitoring by peripheral vascular stiffness: correlation analysis with brain activity", Center of KANSEI Innovation Nurturing Mental Wealth (KANSEI COI), Joint Report Meeting of the Three Centers, Dec 9, 2020.
 2. Toshio Tsuji, Zu Soh, and **<u>Akira Furui</u>**, "KANSEI monitoring by peripheral vascular stiffness: toward non-invasive estimation of sympathetic nerve activity", Center of KANSEI Innovation Nurturing Mental Wealth (KANSEI COI), Joint Report Meeting of the Three Centers, Dec 5, 2020.
 3. **<u>Akira Furui</u>** and Toshio Tsuji，"A variance distribution model of surface EMG signals and related application to Biological fluctuation estimation"，The 36th Annual Conference of Japanese Society for Physiological Psychology and Psychophysiology, Open Symposium, May 26–27, 2018.
