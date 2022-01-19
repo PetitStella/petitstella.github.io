@@ -37,8 +37,18 @@ redirect_from:
 ヒトの生体信号の確率的性質に着目し，筋電位信号（electromyogram: EMG）や脳波（electroencephalogram: EEG）などの確率モデル構築や信号解析，機械学習に関する研究に従事．
 これまでにIEEE EMBS East and Central Japan Chapter/West Japan Chapter Young Researcher Award（2018）などを受賞．
 
-## 学会会員
+## 所属学会
 
-- Institute of Electrical and Electronics Engineers (IEEE)
-- IEEE Engineering in Medicine and Biology Society (IEEE EMBS)
+- IEEE Engineering in Medicine & Biology Society (IEEE EMBS)
 - 公益社団法人 計測自動制御学会 (SICE)
+
+## 学会委員
+
+- IEEE 広島支部 理事（2021年度-）
+- ロボティクス・メカトロニクス 講演会 OSオーガナイザ (2021年度-)
+
+## 担当授業科目
+
+- 学部1年生：ゼロからはじめるプログラミング (2021年度-)
+
+
