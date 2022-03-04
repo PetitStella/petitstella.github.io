@@ -22,6 +22,11 @@ redirect_from:
 
 **所属**<br>
 [広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) 情報科学プログラム 助教
+<br>情報数理研究室 [古居グループ](https://home.hiroshima-u.ac.jp/furui/)
+
+**兼任**<br>
+[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp) 連携教員
+
 
 **専門分野**<br>
 生体信号解析，統計的機械学習，確率モデル，ヒューマンマシンインタフェース
