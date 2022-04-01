@@ -53,6 +53,7 @@ author_profile: false
 
 ## 査読あり国際会議
 
+1. Satoshi Miyamoto, Zu Soh, Shigeyuki Okahara,**<u>Akira Furui</u>**, keijiro Katayama, Taiichi Takasaki, Shinya Takahashi, Toshio Tsuji, “Neural Network-based Estimation of Microbubbles Generated in Cardiopulmonary Bypass Circuit: A Clinical Application Study”, 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC’22), (accepted).
 1. Miyari Hatamoto, **<u>Akira Furui</u>**, Keiko Ogawa, and Toshio Tsuji, "Sleep EEG Analysis Based on a Scale Mixture Model and Spindle Detection", The 2022 IEEE/SICE International Symposium on System Integration (SII2022), (accepted).
 2. Hiroto Sakai, **<u>Akira Furui</u>**, Seiji Hama, Akiko Yanagawa, Koki Kubo, Yutaro Morisako, Yuki Orino, Maho Hamai, Kasumi Fujita, Tomohiko Mizuguchi, Akihiko Kandori, and Toshio Tsuji, "Pen-point Trajectory Analysis During Trail Making Test Based on a Time Base Generator Model", Proceedings of 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’21), pp. 6215–6219, Virtual Conference due to COVID-19, Nov 1–5, 2021. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9629991)
 3. Shumma Jomyo, **<u>Akira Furui</u>**, Tatsuhiko Matsumoto, Tomomi Tsunoda, and Toshio Tsuji, "A Wearable Finger-Tapping Motion Recognition System Using Biodegradable Piezoelectric Film Sensors", Proceedings of 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’21), pp. 6982–6986, Virtual Conference due to COVID-19, Nov 1–5, 2021. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9630643)
@@ -94,7 +95,7 @@ author_profile: false
 
 ## 招待講演
 
-1. **<u>古居 彬</u>**, 秋山 倫之, 辻 敏夫, “振幅の確率的変動に着目した非ガウス脳波モデルとてんかん発作自動検出への応用”, 第51回日本臨床神経生理学会学術大会 シンポジウム, SP25-4, , 仙台国際センター／WEB, 2021年12月16–18日.
+1. **<u>古居 彬</u>**, 秋山 倫之, 辻 敏夫, “振幅の確率的変動に着目した非ガウス脳波モデルとてんかん発作自動検出への応用”, 第51回日本臨床神経生理学会学術大会 シンポジウム, SP25-4, 仙台国際センター／WEB, 2021年12月16–18日.
 1. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性のモニタリング：脳活動との相関解析", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2020年度三拠点合同成果報告会, オンライン, 2020年12月9日.
 2. 辻 敏夫，曽 智，**<u>古居 彬</u>**, "末梢血管剛性による感性モニタリング：交感神経活動の非侵襲推定を目指して", COI 精神的価値が成長する感性イノベーション拠点（感性 COI 拠点） 2019年度三拠点合同成果報告会, リーガロイヤルホテル広島, 2019年12月5日.
 3. **<u>古居 彬</u>**，辻 敏夫，"表面筋電位の分散分布モデルと生体ゆらぎ評価への応用"，第36回日本生理心理学会大会 公募シンポジウム, 2018年5月.
