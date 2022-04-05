@@ -25,6 +25,7 @@ author_profile: false
 
 ## Journal Papers
 
+1. Ziqiang Xu, Toshiki Sakagawa, **<u>Akira Furui</u>**, Shumma Jomyo, Masanori Morita, Masamichi Ando, and Toshio Tsuji, "Toward a Robust Estimation of Respiratory Rate using Cardiovascular Biomarkers: Robustness Analysis under Pain Stimulation", IEEE Sensors Journal (accepted, SCI, IF=3.301).
 1. Ziqiang Xu, Toshiki Sakagawa, **<u>Akira Furui</u>**, Shumma Jomyo, Masanori Morita, Masamichi Ando, and Toshio Tsuji, "Beat-to-beat Estimation of Peripheral Arterial Stiffness from Local PWV for Quantitative Evaluation of Sympathetic Nervous System Activity", IEEE Transactions on Biomedical Engineering (accepted, SCI, IF=4.538).
 1. Koji Shimonaga, Seiji Hama, **<u>Akira Furui</u>**, Akiko Yanagawa, Akihiko Kandori, Hirokazu Atsumori, Shigeto Yamawaki, Toshinori Matsushige, and Toshio Tsuji, “Increased cerebrovascular reactivity in selected brain regions after extracranial-intracranial bypass improves the speed and accuracy of visual cancellation in patients with severe steno-occlusive disease: A preliminary study,” Neurosurgical Review, (accepted, SCI, IF = 3.042).
 1. **<u>Akira Furui</u>**, Takuya Igaue, and Toshio Tsuji, "EMG Pattern Recognition via Bayesian Inference with Scale Mixture-Based Stochastic Generative Models", Expert Systems with Applications, vol. 185, 115644, 2021. (SCI, IF = 6.954) [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S095741742101037X) [[arxiv]](https://arxiv.org/pdf/2107.09853.pdf)
