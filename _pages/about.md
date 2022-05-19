@@ -57,3 +57,18 @@ redirect_from:
 - 学部1年生：ゼロからはじめるプログラミング (2021年度-)
 - 学部集中：AI基礎（2022年度-）
 
+## 査読歴
+
+- Adcanved Control for Applications
+- Advanced Robotics
+- Biocybernetics and Biomedical Engineering
+- Biomedical Signal Processing and Control
+- Critical Reviews in Biomedical Engineering
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering
+- IEEE Transactions on Robotics
+- Journal of Bionic Engineering
+- Journal of Robotics and Mechatronics
+- Signal, Image and Video Processing
+- IEEE ICRA2021
+- Robotics Symposia 2021
+- SII 2022
