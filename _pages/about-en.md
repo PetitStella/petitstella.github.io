@@ -25,7 +25,8 @@ Assistant Professor,
 Graduate School of Advanced Science and Engineering, Hiroshima University
 <br>[Furui Lab](https://home.hiroshima-u.ac.jp/furui/en/)
 
-**Research interests**<br>Biological Signal Analysis, Statistical Machine Learning, Probabilistic Models, Human-Machine Interface
+**Research interests**<br>
+Biological Signal Analysis, Statistical Machine Learning, Probabilistic Models, Human-Machine Interface
 
 ## Biography
 

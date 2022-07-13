@@ -51,6 +51,7 @@ redirect_from:
 
 - IEEE 広島支部 理事（2021年度-）
 - ロボティクス・メカトロニクス 講演会 OSオーガナイザ (2021年度-)
+- IEEE ISTAS 2022 Programme Committee
 
 ## 担当授業科目
 
