@@ -25,7 +25,8 @@ redirect_from:
 <br>情報数理研究室 [古居グループ](https://home.hiroshima-u.ac.jp/furui/)
 
 **兼任**<br>
-[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp) 連携教員
+[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp) 連携教員<br>
+[広島大学](https://www.hiroshima-u.ac.jp/) [AI・データイノベーション教育研究センター](https://www.hiroshima-u.ac.jp/aidi) 研究員
 
 
 **専門分野**<br>
