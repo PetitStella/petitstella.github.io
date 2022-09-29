@@ -66,11 +66,12 @@ redirect_from:
 - Biocybernetics and Biomedical Engineering
 - Biomedical Signal Processing and Control
 - Critical Reviews in Biomedical Engineering
+- IEEE Transactions on Biomedical Engineering
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
 - IEEE Transactions on Robotics
 - Journal of Bionic Engineering
 - Journal of Robotics and Mechatronics
 - Signal, Image and Video Processing
-- IEEE ICRA2021
+- IEEE ICRA 2021
 - Robotics Symposia 2021
 - SII 2022
