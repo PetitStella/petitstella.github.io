@@ -22,7 +22,7 @@ author_profile: false
 
 ## 学術論文
 
-1. Hirokazu Doi+, Naoya Iijima+, **<u>Akira Furui</u>**+, Zu Soh, Rikuya Yonei, Kazuyuki Shinohara, Mayuko Iriguchi, Koji Shimatani, and Toshio Tsuji, "Prediction of autistic tendencies at 18 months of age via markerless video analysis of spontaneous body movements in 4-month-old infants", Scientific Reports, (accepted) [+Equal contribution]
+1. Hirokazu Doi<sup>+</sup>, Naoya Iijima<sup>+</sup>, **<u>Akira Furui</u>**<sup>+</sup>, Zu Soh, Rikuya Yonei, Kazuyuki Shinohara, Mayuko Iriguchi, Koji Shimatani, and Toshio Tsuji, "Prediction of autistic tendencies at 18 months of age via markerless video analysis of spontaneous body movements in 4-month-old infants", Scientific Reports, vol. 12, no. 1, 18045, 2022. (<sup>+</sup>Equal contribution, SCI, IF=4,996) [[springer.com]](https://www.nature.com/articles/s41598-022-21308-y)
 2. Ziqiang Xu, Toshiki Sakagawa, **<u>Akira Furui</u>**, Shumma Jomyo, Masanori Morita, Masamichi Ando, and Toshio Tsuji, "Toward a Robust Estimation of Respiratory Rate using Cardiovascular Biomarkers: Robustness Analysis under Pain Stimulation", IEEE Sensors Journal, vol. 22, no. 10, 2022. (SCI, IF=3.301) [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9751763)
 3. Ziqiang Xu, Toshiki Sakagawa, **<u>Akira Furui</u>**, Shumma Jomyo, Masanori Morita, Masamichi Ando, and Toshio Tsuji, "Beat-to-beat Estimation of Peripheral Arterial Stiffness from Local PWV for Quantitative Evaluation of Sympathetic Nervous System Activity", IEEE Transactions on Biomedical Engineering, vol. 69, no. 9, 2022. (SCI, IF=4.538) [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9721687)
 4. Koji Shimonaga, Seiji Hama, **<u>Akira Furui</u>**, Akiko Yanagawa, Akihiko Kandori, Hirokazu Atsumori, Shigeto Yamawaki, Toshinori Matsushige, and Toshio Tsuji, "Increased cerebrovascular reactivity in selected brain regions after extracranial-intracranial bypass improves the speed and accuracy of visual cancellation in patients with severe steno-occlusive disease: A preliminary study", Neurosurgical Review, 2022. (SCI, IF = 3.042) [[springer.com]](https://link.springer.com/article/10.1007/s10143-021-01720-0)
@@ -55,8 +55,8 @@ author_profile: false
 
 ## 査読あり国際会議
 
-1. Yuki Hashimoto<sup>+</sup>, **<u>Akira Furui</u>**<sup>+</sup>, Koji Shimatani, Maura Casadio, Paolo Moretti, Pietro Morasso, and Toshio Tsuji, “Automated Classification of General Movements in Infants Using Two-stream Spatiotemporal Fusion Network”, 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), accepted [<sup>+</sup>Equal contribution] [[arxiv]](https://arxiv.org/abs/2207.03344)
-2. Satoshi Miyamoto, Zu Soh, Shigeyuki Okahara, **<u>Akira Furui</u>**, keijiro Katayama, Taiichi Takasaki, Shinya Takahashi, Toshio Tsuji, “Neural Network-based Estimation of Microbubbles Generated in Cardiopulmonary Bypass Circuit: A Clinical Application Study”, 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC’22), (accepted).
+1. Yuki Hashimoto<sup>+</sup>, **<u>Akira Furui</u>**<sup>+</sup>, Koji Shimatani, Maura Casadio, Paolo Moretti, Pietro Morasso, and Toshio Tsuji, “Automated Classification of General Movements in Infants Using Two-stream Spatiotemporal Fusion Network”, Proceedigns of the 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2022), pp. 753-762, 2022. (<sup>+</sup>Equal contribution, acceptance rate = 31%) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_72) [[arxiv]](https://arxiv.org/abs/2207.03344)
+2. Satoshi Miyamoto, Zu Soh, Shigeyuki Okahara, **<u>Akira Furui</u>**, Keijiro Katayama, Taiichi Takasaki, Shinya Takahashi, Toshio Tsuji, “Neural Network-based Estimation of Microbubbles Generated in Cardiopulmonary Bypass Circuit: A Clinical Application Study”, Proceedings of 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC’22),pp. 617–620, 2022. [[IEEE Xplore]](http://dx.doi.org/10.1109/EMBC48229.2022.9871662)
 3. Miyari Hatamoto, **<u>Akira Furui</u>**, Keiko Ogawa, and Toshio Tsuji, "Sleep EEG Analysis Based on a Scale Mixture Model and Spindle Detection", Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII2022), pp. 887–892, 2022. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9708856)
 4. Hiroto Sakai, **<u>Akira Furui</u>**, Seiji Hama, Akiko Yanagawa, Koki Kubo, Yutaro Morisako, Yuki Orino, Maho Hamai, Kasumi Fujita, Tomohiko Mizuguchi, Akihiko Kandori, and Toshio Tsuji, "Pen-point Trajectory Analysis During Trail Making Test Based on a Time Base Generator Model", Proceedings of 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’21), pp. 6215–6219, Virtual Conference due to COVID-19, Nov 1–5, 2021. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9629991)
 5. Shumma Jomyo, **<u>Akira Furui</u>**, Tatsuhiko Matsumoto, Tomomi Tsunoda, and Toshio Tsuji, "A Wearable Finger-Tapping Motion Recognition System Using Biodegradable Piezoelectric Film Sensors", Proceedings of 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’21), pp. 6982–6986, Virtual Conference due to COVID-19, Nov 1–5, 2021. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9630643)
@@ -72,24 +72,27 @@ author_profile: false
 
 ## 査読なし国内会議
 
-1. 熊谷 遼, **<u>古居 彬</u>**, 城明 舜磨, 阪井浩人, 辻 敏夫, "振戦を再現可能な筋電義手の開発と生体模倣性の評価", 2022年電気学会電子・情報・システム部門大会, pp. 969–973, MC7-7, 2022年9月2日.
-2. 福田 隼也, **<u>古居 彬</u>**, 熊谷 遼, 阪井 浩人, 町澤 まろ, 辻 敏夫, "脳波の尺度混合モデルに基づく感情価の解読", 2022年電気学会電子・情報・システム部門大会, pp. 963–968, MC7-6, 2022年9月2日.
-3. **<u>古居 彬</u>**, "生体電気信号の尺度混合確率モデルとパターン認識への応用", 2022年電気学会電子・情報・システム部門大会, pp. 957–962, MC7-5, 2022年9月2日.
-4. **<u>古居 彬</u>**, 辻 敏夫, "表面筋電位信号のベイズ確率モデルと動作パターン識別", 第60回日本生体医工学会大会プログラム・抄録集, O1-4-1-5,  p. 276, 2021年6月15日.
-5. 熊谷 遼, 畑元 雅璃, 李 佳琪, 大西 亮太, **<u>古居 彬</u>**, 辻 敏夫, "筋電信号の分散分布モデルに基づく人工振戦生成法の提案と生体模倣筋電義手への応用", 第60回日本生体医工学会大会プログラム・抄録集, O1-4-1-6,  p. 277, 2021年6月15日.
-6. 橋本 悠己, 川野 晃輔, 飯島 直也, **<u>古居 彬</u>**, 島谷 康司, 辻 敏夫, "Two-stream CNNとリカレントニューラルネットワークを用いた新生児General Movements動画像識別", 第60回日本生体医工学会大会プログラム・抄録集, O1-5-1-8, p. 299, 2021年6月15日.
-7. 兼折 美帆, 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 折野 佑樹, 濵井 万穂, 藤田 佳純, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "ペン先軌道生成モデルを利用したTrail Making Testによる認知機能評価", 第60回日本生体医工学会大会プログラム・抄録集, O3-9-4-5, p. 596, 2021年6月17日.
-8. 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 折野 晃紀, 濵井 万穂, 藤田 佳純, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "Time Base Generatorモデルに基づくTrail Making Test中のペン先軌道解析", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 2465–2470, 2020年12月．
-9. 城明 舜磨, **<u>古居 彬</u>**, 大西 亮太, 松本 龍彦, 角田 知己, 辻 敏夫, "生分解圧電素子を用いた5指タップ動作識別法の提案", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 3020–3024, 2020年12月.
-10. 伊賀上 卓也, **<u>古居 彬</u>**, 大西 亮太, 島田 恭平, 辻 敏夫, "筋電位信号の尺度混合確率モデルに基づく上肢動作識別法の提案", 2020年電子通信情報学会総合大会 基礎・境界/NOLTA講演論文集, p. 190, 2020年3月.
-11. 坂川 俊樹, **<u>古居 彬</u>**, 平野 陽豊, 秋吉 駿, 笹岡 貴史, 曽 智, 岡田 芳幸, 吉野 敦雄, 中村 隆治, 佐伯 昇, 吉栖 正生, 河本 昌志, 山脇 成人, 辻 敏夫, "末梢血管剛性を用いた筋交感神経活動の非侵襲的推定", 2020年電子通信情報学会総合大会 情報・システム講演論文集１, p. 59, 2020年3月.
-12. 土居 裕和, 飯島 直也, **<u>古居 彬</u>**, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.
-13. 川野 晃輔, 飯島 直也, 南木 望, **<u>古居 彬</u>**, 曽 智, 森 裕紀, 早志 英朗, 久米 伸治, 辻 敏夫, "Deep Learningを用いたJellyfish Sign自動識別システムの開発", 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 2141–2146, 2019年12月．
-14. 畑元 雅璃, 大西 亮太, **<u>古居 彬</u>**, 島田 恭平, 曽 智, 小川 景子, 辻 敏夫, "尺度混合モデルに基づく睡眠脳波の解析", 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 0755–0759, 2019年12月．
-15. 飯島 直也, **<u>古居 彬</u>**, 曽 智, 早志 英朗, 森 裕紀, 島谷 康司, 辻 敏夫, "2次元姿勢推定深層学習モデルを用いた新生児General Movementsの評価", 日本発達神経科学学会第8回学術集会, P. 28, 2019年11月23–24日.
-16. 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 水口 寛彦, 殷 穎, 神鳥 明彦, 敦森 洋和, 舟根 司, 辻 敏夫, "リーチング軌道生成モデルに基づくTrail Making Test 中の脳卒中患者のなぞり運動解析", 第3回新しい運動機能研究会「 脳生体ダイナミクスの観点から」, p.39, 2019年10月24日.
-17. 南木 望, **<u>古居 彬</u>**, 曽 智, 柳川 亜紀子, 濱 聖司, 鈴木 貴拡, 佐藤 大介, 原 大輔, 辻 敏夫, "脳卒中患者の座位・立位姿勢に基づく体幹機能評価", 第3回新しい運動機能研究会「 脳生体ダイナミクスの観点から」, p.40, 2019年10月24日.
-18. 吉村 和真, 濱 聖司, 柳川 亜紀子, 下永 皓司, **<u>古居 彬</u>**, 曽 智, 平野 陽豊, 栗栖 薫, 山脇 成人, 辻 敏夫, "機械学習を用いた脳卒中患者の気分障害と認知・身体機能の関係解析", 第3回新しい運動機能研究会「 脳生体ダイナミクスの観点から」, p.41, 2019年10月24日.
+1. 米井 陸也, 橋本 悠己, **<u>古居 彬</u>**, 城明 舜磨, 土居 裕和, 島谷 康司, 辻 敏夫, "非負値行列因子分解を用いた乳児運動解析によるASDリスク評価", 第23回計測自動制御学会システムインテグレーション部門講演会論文集（SI2022）, pp. 2543–2548, 2022年12月.
+1. 岡田 航介, **<u>古居 彬</u>**, 阪井 浩人, 城明 舜磨, 鈴木 貴拡, 佐藤 大介, 柳川 亜紀子, 濱 聖司, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "3次元空間における自覚的垂直位と身体動揺の同時計測", 第23回計測自動制御学会システムインテグレーション部門講演会（SI2022）, pp. 662–667, 2022年12月．
+2. 米田 清太朗, **<u>古居 彬</u>**, "ベイズ逐次学習に基づく筋電位パターンの適応的分類", 第23回計測自動制御学会システムインテグレーション部門講演会（SI2022）, pp. 363–68, 2022年12月．
+3. 熊谷 遼, **<u>古居 彬</u>**, 城明 舜磨, 阪井浩人, 辻 敏夫, "振戦を再現可能な筋電義手の開発と生体模倣性の評価", 2022年電気学会電子・情報・システム部門大会, pp. 969–973, MC7-7, 2022年9月2日.
+4. 福田 隼也, **<u>古居 彬</u>**, 熊谷 遼, 阪井 浩人, 町澤 まろ, 辻 敏夫, "脳波の尺度混合モデルに基づく感情価の解読", 2022年電気学会電子・情報・システム部門大会, pp. 963–968, MC7-6, 2022年9月2日.
+5. **<u>古居 彬</u>**, "生体電気信号の尺度混合確率モデルとパターン認識への応用", 2022年電気学会電子・情報・システム部門大会, pp. 957–962, MC7-5, 2022年9月2日.
+6. **<u>古居 彬</u>**, 辻 敏夫, "表面筋電位信号のベイズ確率モデルと動作パターン識別", 第60回日本生体医工学会大会プログラム・抄録集, O1-4-1-5,  p. 276, 2021年6月15日.
+7. 熊谷 遼, 畑元 雅璃, 李 佳琪, 大西 亮太, **<u>古居 彬</u>**, 辻 敏夫, "筋電信号の分散分布モデルに基づく人工振戦生成法の提案と生体模倣筋電義手への応用", 第60回日本生体医工学会大会プログラム・抄録集, O1-4-1-6,  p. 277, 2021年6月15日.
+8. 橋本 悠己, 川野 晃輔, 飯島 直也, **<u>古居 彬</u>**, 島谷 康司, 辻 敏夫, "Two-stream CNNとリカレントニューラルネットワークを用いた新生児General Movements動画像識別", 第60回日本生体医工学会大会プログラム・抄録集, O1-5-1-8, p. 299, 2021年6月15日.
+9. 兼折 美帆, 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 折野 佑樹, 濵井 万穂, 藤田 佳純, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "ペン先軌道生成モデルを利用したTrail Making Testによる認知機能評価", 第60回日本生体医工学会大会プログラム・抄録集, O3-9-4-5, p. 596, 2021年6月17日.
+10. 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 折野 晃紀, 濵井 万穂, 藤田 佳純, 水口 寛彦, 神鳥 明彦, 辻 敏夫, "Time Base Generatorモデルに基づくTrail Making Test中のペン先軌道解析", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 2465–2470, 2020年12月．
+11. 城明 舜磨, **<u>古居 彬</u>**, 大西 亮太, 松本 龍彦, 角田 知己, 辻 敏夫, "生分解圧電素子を用いた5指タップ動作識別法の提案", 第21回計測自動制御学会システムインテグレーション部門講演会（SI2020）, pp. 3020–3024, 2020年12月.
+12. 伊賀上 卓也, **<u>古居 彬</u>**, 大西 亮太, 島田 恭平, 辻 敏夫, "筋電位信号の尺度混合確率モデルに基づく上肢動作識別法の提案", 2020年電子通信情報学会総合大会 基礎・境界/NOLTA講演論文集, p. 190, 2020年3月.
+13. 坂川 俊樹, **<u>古居 彬</u>**, 平野 陽豊, 秋吉 駿, 笹岡 貴史, 曽 智, 岡田 芳幸, 吉野 敦雄, 中村 隆治, 佐伯 昇, 吉栖 正生, 河本 昌志, 山脇 成人, 辻 敏夫, "末梢血管剛性を用いた筋交感神経活動の非侵襲的推定", 2020年電子通信情報学会総合大会 情報・システム講演論文集１, p. 59, 2020年3月.
+14. 土居 裕和, 飯島 直也, **<u>古居 彬</u>**, 曽 智, 入口 真夕子, 篠原 一之, 島谷 康司, 辻 敏夫, "乳児期自発運動の特徴量と社会性発達の関連性", 電子情報通信学会技術研究報告（コミュニケーションクオリティ研究会）, vol.119, no.457, MVE2019-64, pp.143-144, 2020年3月.
+15. 川野 晃輔, 飯島 直也, 南木 望, **<u>古居 彬</u>**, 曽 智, 森 裕紀, 早志 英朗, 久米 伸治, 辻 敏夫, "Deep Learningを用いたJellyfish Sign自動識別システムの開発", 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 2141–2146, 2019年12月．
+16. 畑元 雅璃, 大西 亮太, **<u>古居 彬</u>**, 島田 恭平, 曽 智, 小川 景子, 辻 敏夫, "尺度混合モデルに基づく睡眠脳波の解析", 第20回計測自動制御学会システムインテグレーション部門講演会（SI2019）, pp. 0755–0759, 2019年12月．
+17. 飯島 直也, **<u>古居 彬</u>**, 曽 智, 早志 英朗, 森 裕紀, 島谷 康司, 辻 敏夫, "2次元姿勢推定深層学習モデルを用いた新生児General Movementsの評価", 日本発達神経科学学会第8回学術集会, P. 28, 2019年11月23–24日.
+18. 阪井 浩人, **<u>古居 彬</u>**, 濱 聖司, 柳川 亜紀子, 久保 晃紀, 森迫 優太郎, 水口 寛彦, 殷 穎, 神鳥 明彦, 敦森 洋和, 舟根 司, 辻 敏夫, "リーチング軌道生成モデルに基づくTrail Making Test 中の脳卒中患者のなぞり運動解析", 第3回新しい運動機能研究会「 脳生体ダイナミクスの観点から」, p.39, 2019年10月24日.
+19. 南木 望, **<u>古居 彬</u>**, 曽 智, 柳川 亜紀子, 濱 聖司, 鈴木 貴拡, 佐藤 大介, 原 大輔, 辻 敏夫, "脳卒中患者の座位・立位姿勢に基づく体幹機能評価", 第3回新しい運動機能研究会「 脳生体ダイナミクスの観点から」, p.40, 2019年10月24日.
+20. 吉村 和真, 濱 聖司, 柳川 亜紀子, 下永 皓司, **<u>古居 彬</u>**, 曽 智, 平野 陽豊, 栗栖 薫, 山脇 成人, 辻 敏夫, "機械学習を用いた脳卒中患者の気分障害と認知・身体機能の関係解析", 第3回新しい運動機能研究会「 脳生体ダイナミクスの観点から」, p.41, 2019年10月24日.
 19. 秋吉 駿, **<u>古居 彬</u>**, 平野 陽豊, 隅山 慎, 棟安 俊文, 三戸 景永, 曽 智, 笹岡 貴史, 吉野 敦雄, 神谷 諭史, 中村 隆治, 佐伯 昇, 吉栖 正生, 河本 昌志, 山脇 成人, 辻 敏夫, "筋交感神経活動に基づく人間の疼痛評価", 第58回日本生体医工学会大会, PO-B-138, 2019年6月8日.
 20. 大西 亮太, **<u>古居 彬</u>**, 島田 恭平, 中垣 光裕, 曽 智, 竹内 章人, 秋山 倫之, 辻 敏夫, "尺度混合モデルに基づく脳波解析手法の提案とてんかん発作検出への応用", 第19回計測自動制御学会システムインテグレーション部門講演会 （SI2018）, pp.86–91, 2018年12月．
 21. 飯島 直也, 南木 望, 木下 直樹, **<u>古居 彬</u>**, 曽 智, 森 裕紀, 早志 英朗, 島谷 康司, 辻 敏夫, "CHLAC特徴量を用いた新生児General Movements動画像識別の精度検証", 第19回計測自動制御学会システムインテグレーション部門講演会 （SI2018）, pp.103–107, 2018年12月．
