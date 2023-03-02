@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "受賞歴・競争的資金獲得歴"
+title: "受賞歴"
 permalink: /awards/
 author_profile: false
 ---
