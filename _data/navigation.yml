@@ -9,6 +9,9 @@ main:
   - title: "Awards"
     url: /awards/    
 
+  - title: "Research funds"
+    url: /research-funds/    
+
 #  - title: "Teaching"
 #    url: /teaching/    
     
