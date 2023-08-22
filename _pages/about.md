@@ -22,11 +22,14 @@ redirect_from:
 
 **所属**<br>
 [広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) 情報科学プログラム 助教
-<br>情報数理研究室 [古居グループ](https://home.hiroshima-u.ac.jp/furui/)
+<br>情報数理研究室 古居グループ　(→ [研究室HP](https://home.hiroshima-u.ac.jp/furui/))
 
 **兼任**<br>
-[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp) 連携教員<br>
-[広島大学](https://www.hiroshima-u.ac.jp/) [AI・データイノベーション教育研究センター](https://www.hiroshima-u.ac.jp/aidi) 研究員
+[広島大学](https://www.hiroshima-u.ac.jp/) [大学院スマートソサエティ実践科学研究院](https://www.hiroshima-u.ac.jp/smart_society) Cyber Physical System 助教<br>
+[広島大学](https://www.hiroshima-u.ac.jp/) [AI・データイノベーション教育研究センター](https://www.hiroshima-u.ac.jp/aidi) 研究員<br>
+[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp) 連携教員
+
+
 
 
 **専門分野**<br>
@@ -50,8 +53,9 @@ redirect_from:
 
 ## 学会委員
 
-- IEEE 広島支部 理事（2021年度-）
-- ロボティクス・メカトロニクス 講演会 OSオーガナイザ (2021年度-)
+- 電子情報通信学会 中国支部 学生会顧問（2023年度-）
+- - ロボティクス・メカトロニクス 講演会 OSオーガナイザ (2021年度-)
+- IEEE 広島支部 理事（2021年度-2022年度）
 - IEEE ISTAS 2022 Programme Committee
 
 ## 担当授業科目
