@@ -21,7 +21,7 @@ redirect_from:
 博士（工学）
 
 **所属**<br>
-[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) 情報科学プログラム 助教
+[広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) 情報科学プログラム 准教授
 <br>情報数理研究室 古居グループ　(→ [研究室HP](https://home.hiroshima-u.ac.jp/furui/))
 
 **兼任**<br>
