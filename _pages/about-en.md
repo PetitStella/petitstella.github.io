@@ -21,7 +21,7 @@ Akira Furui
 Ph.D. in Engineering
 
 **Affiliations**<br>
-Assistant Professor,
+Associate Professor,
 Graduate School of Advanced Science and Engineering, Hiroshima University
 <br>[Intelligent Biosignal Informatics Lab (Furui Lab)](https://home.hiroshima-u.ac.jp/furui/en/)
 
