@@ -30,6 +30,14 @@ Graduate School of Engineering, Hiroshima University, Japan
 Research Fellowships for Young Scientists (DC1)<br>
 Japan Society for the Promotion of Science
 
-**Oct 2019 &ndash; Present**<br>
-Assistant Professor<br>
+**Oct 2019 &ndash; Sep 2021**<br>
+Assistant Professor, Electrical, Systems, and Control Engineering Program<br>
+Graduate School of Advanced Science and Engineering, Hiroshima University, Japan
+
+**Oct 2021 &ndash; Mar 2024**<br>
+Assistant Professor, Informatics and Data Science Program<br>
+Graduate School of Advanced Science and Engineering, Hiroshima University, Japan
+
+**Apr 2024 &ndash; Present**<br>
+Associate Professor, Informatics and Data Science Program<br>
 Graduate School of Advanced Science and Engineering, Hiroshima University, Japan
