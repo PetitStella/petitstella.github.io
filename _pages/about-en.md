@@ -26,14 +26,15 @@ Graduate School of Advanced Science and Engineering, Hiroshima University
 <br>[Intelligent Biosignal Informatics Lab (Furui Lab)](https://home.hiroshima-u.ac.jp/furui/en/)
 
 **Research interests**<br>
-Biological Signal Processing, Statistical Machine Learning, Probabilistic Models, Human-Machine Interface
+Biological Signal Processing, Machine Learning, Deep Learning, Probabilistic Models, Human-Machine Interface
 
 ## Biography
 
-Akira Furui received the B.E., M.E., and Ph.D. degrees in engineering from Hiroshima University, Hiroshima, Japan, in 2016, 2018, and 2019, respectively. He was a Research Fellow with the Japan Society for the Promotion of Science, from 2018 to 2019. He is currently an Assistant Professor with the Graduate School of Advanced Science and Engineering, Hiroshima University. His current research interests include biological signal analysis, statistical machine learning, probabilistic models, and human-machine interface.
+Akira Furui received the B.E., M.E., and Ph.D. degrees in engineering from Hiroshima University, Hiroshima, Japan, in 2016, 2018, and 2019, respectively. He was a Research Fellow with the Japan Society for the Promotion of Science, from 2018 to 2019. He is currently an Associate Professor with the Graduate School of Advanced Science and Engineering, Hiroshima University. His current research interests include biological signal processing, machine learning, deep learning, probabilistic models, and human-machine interface.
 
 ## Member
 
 - Institute of Electrical and Electronics Engineers (IEEE)
-- IEEE Engineering in Medicine and Biology Society (IEEE EMBS)
+  - Medicine and Biology Society (EMBS)
 - The Society of Instrument and Control Engineers (SICE)
+- The Institute of Electronics, Information and Communication Engineers (IEICE)
