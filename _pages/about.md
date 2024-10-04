@@ -25,7 +25,7 @@ redirect_from:
 <br>[知能生体情報学研究室（古居研究室）](https://home.hiroshima-u.ac.jp/furui/)
 
 **兼任**<br>
-[広島大学](https://www.hiroshima-u.ac.jp/) [大学院スマートソサエティ実践科学研究院](https://www.hiroshima-u.ac.jp/smart_society) Cyber Physical System 助教<br>
+[広島大学](https://www.hiroshima-u.ac.jp/) [大学院スマートソサエティ実践科学研究院](https://www.hiroshima-u.ac.jp/smart_society) Cyber Physical System 准教授<br>
 [広島大学](https://www.hiroshima-u.ac.jp/) [AI・データイノベーション教育研究センター](https://www.hiroshima-u.ac.jp/aidi) 研究員<br>
 [広島大学](https://www.hiroshima-u.ac.jp/) [大学院先進理工系科学研究科](https://www.hiroshima-u.ac.jp/adse) [生体システム論研究室](https://bsys.hiroshima-u.ac.jp) 連携教員
 
@@ -33,7 +33,7 @@ redirect_from:
 
 
 **専門分野**<br>
-生体信号処理，統計的機械学習，確率モデル，ヒューマンマシンインタフェース
+生体信号処理，機械学習／深層学習，確率モデル，ヒューマンマシンインタフェース
 
 ## 略歴
 
@@ -78,6 +78,6 @@ redirect_from:
 - Journal of Bionic Engineering
 - Journal of Robotics and Mechatronics
 - Signal, Image and Video Processing
-- IEEE ICRA 2021
-- Robotics Symposia 2021
-- SII 2022
+- IEEE ICRA
+- Robotics Symposia
+- SICE SII

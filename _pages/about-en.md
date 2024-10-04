@@ -26,7 +26,7 @@ Graduate School of Advanced Science and Engineering, Hiroshima University
 <br>[Intelligent Biosignal Informatics Lab (Furui Lab)](https://home.hiroshima-u.ac.jp/furui/en/)
 
 **Research interests**<br>
-Biological Signal Processing, Machine Learning, Deep Learning, Probabilistic Models, Human-Machine Interface
+Biological Signal Processing, Machine Learning/Deep Learning, Probabilistic Models, Human-Machine Interface
 
 ## Biography
 
