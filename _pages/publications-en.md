@@ -25,6 +25,7 @@ author_profile: false
 
 ## Journal Papers
 
+1. **<u>Akira Furui</u>**, Ryota Onishi, Tomoyuki Akiyama, and Toshio Tsuji, "Epileptic seizure detection using a recurrent neural network with temporal features derived from a scale mixture EEG model", IEEE Access, 2024 (accepted).
 1. Kouki Kubo, Seiji Hama, **<u>Akira Furui</u>**, Tomohiko Mizuguchi, Zu Soh, Akiko Yanagawa, Akihiko Kandori, Hiroto Sakai, Yutaro Morisako, Yuki Orino, Maho Hamai, Kasumi Fujita, Shigeto Yamawaki, and Toshio Tsuji, "Cognitive screening test for rehabilitation using spatiotemporal data extracted from a digital Trail Making Test part-A", Heliyon, e33135, Jun 2024. [[sciencedirect.com]](https://www.sciencedirect.com/science/article/pii/S2405844024091667)
 2. Shumma Jomyo, **<u>Akira Furui</u>**, Tatsuhiko Matsumoto, Tomomi Tsunoda, and Toshio Tsuji, "Finger-tapping Motion Recognition Based on Skin Surface Deformation Using Wrist-mounted Piezoelectric Film Sensors", IEEE Sensors Journal, vol. 24, no. 11, pp. 17876–17884, Mar 2024. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10500304)
 3. Satoshi Miyamoto, Zu Soh, Shigeyuki Okahara, **<u>Akira Furui</u>**, Taiichi Takasaki, Keijiro Katayama, Shinya Takahashi, and Toshio Tsuji, "The number of microbubbles generated during cardiopulmonary bypass can be estimated using machine learning from suction flow rate, venous reservoir level, perfusion flow rate, hematocrit level, and blood temperature", IEEE Open Journal of Engineering in Medicine and Biology, Jan 2024. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10382573)
