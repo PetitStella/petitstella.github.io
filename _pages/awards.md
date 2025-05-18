@@ -10,6 +10,7 @@ author_profile: false
 
 {% include base_path %}
 
+1. SI2024 優秀講演賞（2件）, 計測自動制御学会システムインテグレーション部門, 2024年12月.
 1. コニカミノルタ科学技術振興財団 大会奨励賞（受賞者：廣池 智哉）, 日本生体医工学会大会, 2024年5月.
 2. Franklin V. Taylor Memorial Award - Finalist, IEEE Systems, Man, and Cybernetics Society, 2023年10月.
 3. コニカミノルタ科学技術振興財団 大会奨励賞／学生賞（受賞者：吉冨 孟志）, 日本生体医工学会大会, 2023年5月.
